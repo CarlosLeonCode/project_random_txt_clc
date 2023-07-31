@@ -1,0 +1,26 @@
+{
+  "name": "project_random_txt_clc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosLeonCode/project_random_txt_clc.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "CarlosLeonCode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarlosLeonCode/project_random_txt_clc/issues"
+  },
+  "homepage": "https://github.com/CarlosLeonCode/project_random_txt_clc#readme",
+  "bin": {
+    "random-txt-clc": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "description": ""
+}
